@@ -1,0 +1,60 @@
+1. Inicio
+
+2. Definir variables:
+  - Facultad
+
+  - Carrera
+
+  - Costo por ciclo
+
+3. Leer valores de Facultad, Carrera y Costo por ciclo
+
+4. Si el estudiante lleva de 1 a 12 créditos
+
+  - Calcular 75% del costo por ciclo
+
+  Sino si el estudiante lleva de 13 a 22 créditos
+
+  - Calcular 100% del costo por ciclo
+
+  Sino si el estudiante lleva de 23 a 26 créditos
+
+  - Calcular 115% del costo por ciclo
+
+5. Si el promedio de notas del estudiante es mayor o igual a 16
+
+  - Aplicar 10% de descuento al costo por ciclo
+
+6. Si el estudiante proviene de un colegio nacional
+
+  - Aplicar 15% de descuento al costo por ciclo
+
+7. Preguntar si el estudiante desea pagar todo el ciclo
+
+  - Si es así, aplicar 5% de descuento al costo por ciclo
+
+  - Sino, aplicar 5% de incremento al costo por ciclo y dividir en 5 cuotas
+
+8. Mostrar en pantalla:
+
+  - Costo total por ciclo
+
+  - Monto a pagar de la carrera
+
+  - Total de créditos
+
+  - Monto a pagar por créditos
+
+  - Descuento por promedio de notas
+
+  - Descuento por colegio
+
+  - Descuento o incremento si paga al contado o fracciona
+
+  - Si fracciona, mostrar pago por mes (5 cuotas)
+
+  - Si no fracciona, mostrar monto a pagar
+
+9. Fin
+
+               
